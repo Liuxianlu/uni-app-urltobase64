@@ -12,7 +12,8 @@ urlTobase64(url) {
 
 ## 调用
 ```javascript
-this.urlTobase64(res.tempFilePaths[0]); // wxfile://tmp_64f1ab8a1e796874f93d50fea64e2d4852e6b99722f666d0.jpg
+this.urlTobase64(res.tempFilePaths[0]);
+// wxfile://tmp_64f1ab8a1e796874f93d50fea64e2d4852e6b99722f666d0.jpg
 ```
 ## 兼容性
 只在微信小程序测试可用，其他端未知。
