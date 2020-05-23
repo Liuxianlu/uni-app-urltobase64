@@ -1,1 +1,0 @@
-<view class="content"><image class="logo" src="{{urlImage}}"></image><button type="default" data-event-opts="{{[['tap',[['tapButton',['$event']]]]]}}" bindtap="__e">点击</button></view>
